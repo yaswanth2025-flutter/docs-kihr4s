@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-qpdp9g.date-me.pro/sitemap.xml
